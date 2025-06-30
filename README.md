@@ -6,12 +6,12 @@ This software allows users to take quizzes using their own vocabulary and defini
 
 # Development Environment
 
-Next.js
-TypeScript
-Tailwind CSS
-Visual Studio Code
+- Next.js
+- TypeScript
+- Tailwind CSS
+- Visual Studio Code
 
 # Useful Websites
 
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+* [TypeScript Tutorial](https://youtu.be/SpwzRDUQ1GI?si=hHp9tJOP3a-tHMP9)
+* [TypeScript Offocial Website](https://www.typescriptlang.org/)
