@@ -2,7 +2,7 @@
 
 This software allows users to take quizzes using their own vocabulary and definitions.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/4as3V7vAKbk)
 
 # Development Environment
 
